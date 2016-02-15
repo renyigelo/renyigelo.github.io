@@ -80,6 +80,9 @@ body {
 #code .keyword{
 	color: #7f0055;
 	font-weight:bold;
+	font-size: 25px;
+	margin-top: 10px;
+	margin-left:40px;
 }
 
 #code .placeholder{
